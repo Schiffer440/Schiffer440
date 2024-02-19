@@ -24,10 +24,6 @@
 <img alt="OS" src="https://img.shields.io/badge/OS-Ubuntu-orange">
 
 <img alt="Tool" src="https://img.shields.io/badge/Tool-VS_Code-purple">
-<h2 align="center">Pending for more</h2>
-<p align="center">
-<img alt="loading" src="https://static.vecteezy.com/system/resources/previews/017/177/700/non_2x/loading-bar-progress-icon-with-transparent-background-free-png.png" width=500 height=500>
-</p>
 
 <h1 align="center">🌱 I’m currently learning</h1>
 <img alt="JavaScript" src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=7F00FF">
@@ -39,6 +35,10 @@
 <img alt="React" src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=7F00FF">
 <img alt="SQL" src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=7F00FF">
 
+<h2 align="center">Pending for more</h2>
+<p align="center">
+<img alt="loading" src="https://static.vecteezy.com/system/resources/previews/017/177/700/non_2x/loading-bar-progress-icon-with-transparent-background-free-png.png" width=500 height=500>
+</p>
 <!--
 **Schiffer440/Schiffer440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
