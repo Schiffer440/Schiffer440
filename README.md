@@ -34,7 +34,7 @@
 <img alt="GIT" src="https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=7F00FF">
 <img alt="React" src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=7F00FF">
 <img alt="SQL" src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=7F00FF">
-<img alt="Python" src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=7F00FF">
+<img alt="Python" src="https://img.shields.io/badge/Code-Python-purple?style=flat&logo=Python">
 
 <h2 align="center">Pending for more</h2>
 <p align="center">
