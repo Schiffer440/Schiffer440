@@ -28,7 +28,7 @@
 <h1 align="center">🌱 I’m currently learning</h1>
 <img alt="JavaScript" src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=7F00FF">
 <img alt="Ruby" src="https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=7F00FF">
-<img alt="Rails" src="https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=Rails&logoColor=white&color=7F00FF">
+<img alt="Rails" src="https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=7F00FF">
 <img alt="HTML" src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=7F00FF">
 <img alt="CSS" src="https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=7F00FF">
 <img alt="GIT" src="https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=7F00FF">
