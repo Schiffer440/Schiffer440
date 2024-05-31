@@ -14,8 +14,7 @@
  <p align="center">I am a tech passionate since my young age and now I have finally the chance to commit myself into this curious world. 🚀</p>
 </p>
  </h3>
-<p>It's been a year since the beginning of my journey, for now I've been searching answers through 42 school but I'm certain of the way that I want to take as a Software engineer</p>
-<p>On this new part of my trip I'll embark in Le Wagon 🚂 where I'll be learning Web development</p>
+<p>It's been a year since the beginning of my journey, for now I've been searching answers through 42 school but I'm certain of the way that I want to take as a Software engineer/Web Developer</p>
 
 <h1 align="center">Skills</h1>
 
