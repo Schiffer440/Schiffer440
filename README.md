@@ -1,6 +1,6 @@
 <h1 align="center">
  <p> Hello there !👋 </p>
- <p style="font-size: 75%; font-weight: normal;" > I am Arnaud, Software Engineer in the making 👾.</p>
+ <p style="font-size: 75%; font-weight: normal;" > I am Arnaud, Web developper in the making 👾.</p>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://imgs.search.brave.com/sqSOvEojOjttMedXWXkyBN5l5-TLxXpYWDH7kztuBqM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4t/MC5lbW9qaXMud2lr/aS9lbW9qaS1waWNz/L2dvb2dsZS9uZXct/bW9vbi1nb29nbGUu/cG5n">
   <source media="(prefers-color-scheme: light)" srcset="https://imgs.search.brave.com/Z0pwzdS-M-5BL-eqEY5tTRcLt4X-   Af2jpbfnXdEMBYg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9mdWxsLW1v/b24tZW1vamktMjA0/OHgyMDQ4LWNvaXN6/ZHFoLnBuZw">
