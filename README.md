@@ -23,6 +23,8 @@
 <img alt="HTML" src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=7F00FF">
 <img alt="JavaScript" src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=7F00FF">
 <img alt="SQL" src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=7F00FF">
+<img alt="React" src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=7F00FF">
+
 
 
 
@@ -36,7 +38,6 @@
 <img alt="Ruby" src="https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=7F00FF">
 <img alt="GIT" src="https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=7F00FF">
 <img alt="Rails" src="https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=7F00FF">
-<img alt="React" src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=7F00FF">
 
 <h2 align="center">Pending for more</h2>
 <p align="center">
