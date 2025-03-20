@@ -19,6 +19,13 @@
 <h1 align="center">Skills</h1>
 
 <img alt="C shield" src="https://img.shields.io/badge/Code-C-blue">
+<img alt="CSS" src="https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=7F00FF">
+<img alt="HTML" src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=7F00FF">
+<img alt="JavaScript" src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=7F00FF">
+<img alt="SQL" src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=7F00FF">
+
+
+
 
 <img alt="OS" src="https://img.shields.io/badge/OS-Ubuntu-orange">
 
@@ -26,14 +33,10 @@
 
 <h1 align="center">🌱 I’m currently learning</h1>
 <img alt="Python" src="https://img.shields.io/badge/Code-Python-purple?style=flat&logo=Python&logoColor=white&color=7F00FF">
-<img alt="JavaScript" src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=7F00FF">
 <img alt="Ruby" src="https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=7F00FF">
-<img alt="HTML" src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=7F00FF">
-<img alt="CSS" src="https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=7F00FF">
 <img alt="GIT" src="https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=7F00FF">
 <img alt="Rails" src="https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=Ruby%20on%20Rails&logoColor=white&color=7F00FF">
 <img alt="React" src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=7F00FF">
-<img alt="SQL" src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=7F00FF">
 
 <h2 align="center">Pending for more</h2>
 <p align="center">
